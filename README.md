@@ -26,7 +26,7 @@ Each row in the dataset contains the following fields:
 | `Post` | str | The body text of the original post |
 | `Comment` | str | The root comment that potentially contains trolling |
 | `TrollingCategory` | int | 1: Overt troll, 2: Covert troll |
-| `TrollingStrategy` | int | 0: Nontroll, 1-6: Trolling strategies (refer to paper for details) |
+| `TrollingStrategy` | int | 0: Non-troll, 1-6: Trolling strategies (refer to paper for details) |
 | `TSReason` | int | The reason for the trolling strategy label (refer to Table 3 in our paper) |
 | `ResponseCategory` | int | 1: Nudging, 2: Confrontational |
 | `MostPreferredRS` | int | The most preferred response strategy |
