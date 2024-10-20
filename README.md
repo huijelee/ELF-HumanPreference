@@ -56,5 +56,6 @@ Note: This citation will be replaced with the ACL Anthology format once it becom
 ## License
 
 These resources are licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+This license applies to the dataset compilation, our annotations, and derived data resulting from our analysis and processing. It does not extend to the original source content from Reddit.
 
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" /></a><br />
