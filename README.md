@@ -41,6 +41,14 @@ Each row in the dataset contains the following fields:
 | `ChosenResponse` | str | The response corresponding to the most preferred strategy |
 | `RejectResponse` | str | The response corresponding to the least preferred strategy |
 
+## Ethical Considerations and Guidelines
+
+- Researchers using this dataset should be aware of the sensitive nature of its contents and handle it responsibly.
+- Any research or applications derived from this dataset should prioritize ethical considerations and aim to minimize potential harm.
+- Make no attempt to deanonymize or learn the identity of any user in the dataset.
+- Respect the privacy and anonymity of the individuals whose data is included in this dataset.
+- Use the data solely for the purpose of studying and countering trolling behavior, not for any purposes that could potentially harm or exploit individuals or communities.
+
 ## Citation
 
 If you use this dataset in your research, please cite our paper:
