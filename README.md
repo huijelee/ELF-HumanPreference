@@ -14,6 +14,8 @@ The dataset is located in the data directory and consists of three files:
 
 `total.tsv`: a total of 1,189 instances, including non-troll examples
 
+For more information, please refer to [`🤗ELF-HP`](https://huggingface.co/datasets/huijelee/ELF-HP).
+
 ## Fields
 
 Each row in the dataset contains the following fields:
