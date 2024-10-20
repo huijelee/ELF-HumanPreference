@@ -1,8 +1,8 @@
-# ELF24: Human Preference-Aligned Counter Trolling Dataset
+# ELF-HP: Human Preference-Aligned Counter Trolling Dataset
 
 ## Overview
 
-ELF24 is a dataset designed for studying human-preferred counter-response strategies in Reddit discussions. The dataset contains annotated posts and comments from various subreddits, including various type of trolling attempts and multiple response strategies. You can read our paper ["Towards Effective Counter-Responses: Aligning Human Preferences with Strategies to Combat Online Trolling"](https://arxiv.org/pdf/2410.04164) published in the Findings of EMNLP 2024.
+ELF-HP is a dataset designed for studying human-preferred counter-response strategies in Reddit discussions. The dataset contains annotated posts and comments from various subreddits, including various type of trolling attempts and multiple response strategies. You can read our paper ["Towards Effective Counter-Responses: Aligning Human Preferences with Strategies to Combat Online Trolling"](https://arxiv.org/pdf/2410.04164) published in the Findings of EMNLP 2024.
 
 ## Dataset Structure
 
