@@ -53,15 +53,24 @@ Each row in the dataset contains the following fields:
 
 If you use this dataset in your research, please cite our paper:
 
-```
-@article{lee2024towards,
-  title={Towards Effective Counter-Responses: Aligning Human Preferences with Strategies to Combat Online Trolling},
-  author={Lee, Huije and Song, Hoyun and Shin, Jisu and Cho, Sukmin and Han, SeungYoon and Park, Jong C},
-  journal={arXiv preprint arXiv:2410.04164},
-  year={2024}
+```bibtex
+@inproceedings{lee-etal-2024-towards-effective,
+    title = "Towards Effective Counter-Responses: Aligning Human Preferences with Strategies to Combat Online Trolling",
+    author = "Lee, Huije  and
+      Song, Hoyun  and
+      Shin, Jisu  and
+      Cho, Sukmin  and
+      Han, SeungYoon  and
+      Park, Jong C.",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2024",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-emnlp.683",
+    pages = "11670--11686",
 }
 ```
-Note: This citation will be replaced with the ACL Anthology format once it becomes available.
 
 ## License
 
