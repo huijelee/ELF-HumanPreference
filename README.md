@@ -2,7 +2,7 @@
 
 ## Overview
 
-ELF-HP is a dataset designed for studying human-preferred counter-response strategies in Reddit discussions. The dataset contains annotated posts and comments from various subreddits, including various type of trolling attempts and multiple response strategies. You can read our paper ["Towards Effective Counter-Responses: Aligning Human Preferences with Strategies to Combat Online Trolling"](https://arxiv.org/pdf/2410.04164) published in the Findings of EMNLP 2024.
+ELF-HP is a dataset designed for studying human-preferred counter-response strategies in Reddit discussions. The dataset contains annotated posts and comments from various subreddits, including various type of trolling attempts and multiple response strategies. You can read our paper ["Towards Effective Counter-Responses: Aligning Human Preferences with Strategies to Combat Online Trolling"](https://aclanthology.org/2024.findings-emnlp.683.pdf) published in the Findings of EMNLP 2024.
 
 ## Dataset Structure
 
@@ -66,7 +66,6 @@ If you use this dataset in your research, please cite our paper:
     month = nov,
     year = "2024",
     publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2024.findings-emnlp.683",
     pages = "11670--11686",
 }
 ```
