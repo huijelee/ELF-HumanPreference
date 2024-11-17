@@ -65,7 +65,6 @@ If you use this dataset in your research, please cite our paper:
     booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2024",
     month = nov,
     year = "2024",
-    address = "Miami, Florida, USA",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2024.findings-emnlp.683",
     pages = "11670--11686",
